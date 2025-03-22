@@ -141,7 +141,7 @@ CoRecommender uses a collaborative filtering approach based on nearest neighbors
 
 ## Example
 
-See the [usage example notebook](./usage_example.ipynb) for a complete demonstration with the MovieLens dataset.
+See the [usage example notebook](https://github.com/hima12-awny/CoRecommender/blob/1b6ca5b3c0c47b39b895c9685f7e8ac4f4ccbd47/usage_example.ipynb) for a complete demonstration with the MovieLens dataset.
 
 ## 📧 Contact
 
